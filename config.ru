@@ -1,5 +1,7 @@
 # HOSTED AT:
-# hosted at http://quiz-ruby-object-model.herokuapp.com/
+# hosted at https://quizzes-ruby-object-model.herokuapp.com/1
+# hosted at https://quizzes-ruby-object-model.herokuapp.com/2
+# hosted at https://quizzes-ruby-object-model.herokuapp.com/3
 
 
 require 'redcarpet'
