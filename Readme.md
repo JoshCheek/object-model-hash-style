@@ -10,7 +10,7 @@ Lesson Plan
 * [Quiz](https://quizzes-ruby-object-model.herokuapp.com/1) <-- y'all should have memorized this shit!
 * Play with hashes (linked-list style)
 * Definitions
-* [Quiz](https://quizzes-ruby-object-model.herokuapp.com/1)
+* [Quiz](https://quizzes-ruby-object-model.herokuapp.com/2)
 * Anything could happen here! (we can do modules / singleton classes, or we could do [challenges](https://gist.github.com/JoshCheek/ad9f70a6d855be9ed50d))
 * [Quiz](https://quizzes-ruby-object-model.herokuapp.com/3)
 
