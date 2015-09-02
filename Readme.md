@@ -11,7 +11,7 @@ Lesson Plan
 * Play with hashes (linked-list style)
 * Definitions
 * [Quiz](https://quizzes-ruby-object-model.herokuapp.com/1)
-* Anything could happen here! (we can do modules, or we could do challenges)
+* Anything could happen here! (we can do modules / singleton classes, or we could do [challenges](https://gist.github.com/JoshCheek/ad9f70a6d855be9ed50d))
 * [Quiz](https://quizzes-ruby-object-model.herokuapp.com/3)
 
 Definitions
