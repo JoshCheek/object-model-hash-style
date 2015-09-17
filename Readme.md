@@ -276,6 +276,8 @@ This means that everything still works the same way it always has,
 but we get to put those methods into any inheritance hierarchy we want!
 The "bag of methods" is our module.
 
+![modules_diagram.jpg](modules_diagram.jpg)
+
 ```ruby
 module Drink
   def sip(amount)
