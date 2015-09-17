@@ -188,8 +188,9 @@ The purpose of a module is:
 ## Objects are just linked lists
 
 Consider the following code.
-I've added a file showing it's hash structure in `user_hash.rb`
-Place that file side-by-side with `linked_list_hash.rb` :)
+I've added a file showing it's hash structure in [`user_hash.rb`](https://github.com/JoshCheek/object-model-hash-style/blob/master/user_hash.rb)
+Place that file side-by-side with [`linked_list_hash.rb`](https://github.com/JoshCheek/object-model-hash-style/blob/master/linked_list_hash.rb)
+:)
 
 ```ruby
 class User
